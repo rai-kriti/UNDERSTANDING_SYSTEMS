@@ -1,5 +1,5 @@
 # Consistency Models — Complete Deep Dive
-> Created by @kriti.sde | All content original.
+> Created by @kritirai.sde | All content original.
 > Part of the UNDERSTANDING-SYSTEMS series.
 
 ---
@@ -973,5 +973,5 @@ to fail-over and replication strategies?
 
 ---
 
-*All content original. Created by @kriti.sde*
+*All content original. Created by @kritirai.sde*
 *github.com/rai-kriti/UNDERSTANDING-SYSTEMS*
