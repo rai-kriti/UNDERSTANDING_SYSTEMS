@@ -1,5 +1,5 @@
 # System Design Maths — Complete Deep Dive
-> Created by @kriti.sde | All content original.
+> Created by @kritirai.sde | All content original.
 > Part of the UNDERSTANDING-SYSTEMS series.
 
 ---
